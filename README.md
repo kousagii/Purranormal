@@ -6,6 +6,22 @@ Play as Coby, a ghost cat wandering through a quiet house filled with memories.
 Explore its rooms, collect photographs, and solve book and portrait sorting
 puzzles to uncover the story.
 
+## Screenshots
+
+Title screen and exploration:
+
+<p>
+  <a href="screenshots/title.png"><img src="screenshots/title.png" width="49%" alt="Purranormal title screen with the ghost cat and main menu"></a>
+  <a href="screenshots/exploration.png"><img src="screenshots/exploration.png" width="49%" alt="Coby exploring a room with a photograph and a ghost dog"></a>
+</p>
+
+Book and portrait sorting puzzles:
+
+<p>
+  <a href="screenshots/book-puzzle.png"><img src="screenshots/book-puzzle.png" width="49%" alt="Book puzzle with differently sized books and selection arrows"></a>
+  <a href="screenshots/portrait-puzzle.png"><img src="screenshots/portrait-puzzle.png" width="49%" alt="Portrait puzzle with six cat portraits labeled by year"></a>
+</p>
+
 ## Requirements
 
 - Windows with PowerShell 5.1 or newer for the included launcher.
