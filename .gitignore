@@ -1,0 +1,35 @@
+# Public documentation: only the root GitHub README is included.
+*.[mM][dD]
+!/README.md
+
+# Local notes, credits documents and provenance reports.
+/docs/
+/archive/
+
+# Generated build output and packaged binaries.
+/build/
+/bin/
+/dist/
+*.class
+
+# Personal save data and temporary save writes.
+/savegame.dat
+/savefile.dat
+/purranormal-*.tmp
+
+# Development-only files retained locally.
+/test/
+/.vscode/
+/nbproject/
+/build.xml
+/manifest.mf
+
+# Local editor and operating-system files.
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+

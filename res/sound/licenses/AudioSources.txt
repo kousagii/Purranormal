@@ -1,0 +1,48 @@
+Purranormal audio sources
+All active audio listed here is CC0 1.0 Universal.
+License deed: https://creativecommons.org/publicdomain/zero/1.0/
+Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Retrieved 24 November 2026.
+
+BACKGROUND MUSIC
+Title: First Light Particles
+Creator: Yoiyami
+Source: https://opengameart.org/content/first-light-particles-%E2%80%93-cc0-atmospheric-pianoambient-track
+Source attachment: first_light_particles_0.wav
+Runtime file: res/sound/first_light_particles.wav
+Changes: 22050 Hz stereo PCM conversion; gentle start/end fades.
+Music starts at 45 percent in game.
+
+INTERFACE SOUNDS
+Creator: Kenney
+Source: https://kenney.nl/assets/interface-sounds
+Original license notice: Kenney-interface.txt in this directory.
+click.wav: Audio/click_003.ogg
+interact.wav: Audio/select_001.ogg
+puzzle.wav: Audio/confirmation_002.ogg
+ending.wav: Audio/glass_001.ogg
+
+WOODEN SOUNDS
+Creator: Kenney
+Source: https://kenney.nl/assets/impact-sounds
+Original license notice: Kenney-impact.txt in this directory.
+portrait.wav: Audio/impactWood_light_000.ogg
+door.wav: Audio/impactWood_medium_001.ogg
+
+PAPER SOUNDS
+Pack: Various Paper Sound Effects
+Creator: Luckius
+Source: https://opengameart.org/content/various-paper-sound-effects
+Source attachment: sounds_6.zip
+pickup.wav: WAV/Paper Sound - 1.wav
+place.wav: WAV/Paper Sound - 2.wav
+book.wav: WAV/Paper Sound - 3.wav
+
+All runtime effects were converted to 22050 Hz mono PCM WAV and attenuated for
+a quiet, tactile mix. docs/AudioManifest.json records the source filenames,
+gain changes and SHA-256 checksums.
+
+Original project audio is preserved locally in archive/audio and excluded from
+the runtime JAR. This notice does not change licenses for existing artwork,
+fonts or other project files.
+

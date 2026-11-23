@@ -1,0 +1,5 @@
+The sound effects in this folder are CC0 1.0 Universal.
+See ../licenses/AudioSources.txt for authors, sources and processing details.
+Original Kenney license notices are preserved in ../licenses/.
+https://creativecommons.org/publicdomain/zero/1.0/
+
