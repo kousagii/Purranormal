@@ -1,8 +1,6 @@
 # Purranormal A Cat's Tale
 
-A pixel-art exploration and puzzle game by **kousagii**, built with Java Swing.
-
-Play as Coby, a ghost cat wandering through a quiet house filled with memories.
+A pixel-art exploration and puzzle game by built with Java Swing. Play as Coby, a ghost cat wandering through a quiet house filled with memories.
 Explore its rooms, collect photographs, and solve book and portrait sorting
 puzzles to uncover the story.
 
